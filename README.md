@@ -1,5 +1,5 @@
 
-![Preview]()
+![Preview](https://github.com/dgcezar/Loja-de-Jogos/blob/main/src/assets/readme/HomePage.png)
 
 
 ## Loja de Jogos
